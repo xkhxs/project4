@@ -9,5 +9,6 @@ public class test {
         System.out.println("hot");
         System.out.println("master");
         System.out.println("new");
+        System.out.println("改动");
     }
 }
